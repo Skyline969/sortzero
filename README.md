@@ -37,6 +37,4 @@ It will then sort it to something along the lines of:
 /roms/NES/r/ROM 1.nes
 
 
-The script must have only one parameter passed to it. Caution is advised, as it will blindly sort any
-
-directory passed into it. Do not pass a directory that you wouldn't want sorted!
+The script must have only one parameter passed to it. Caution is advised, as it will blindly sort any directory passed into it. Do not pass a directory that you wouldn't want sorted!
